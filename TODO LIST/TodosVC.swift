@@ -9,9 +9,7 @@ import UIKit
 import CoreData
 
 class TodosVC: UIViewController {
-    //mmmm
-    //cjncjcc
-    //
+    
     let x="nnn"
     var todosArray:[Todo]!
     @IBOutlet weak var todosTableView: UITableView!
